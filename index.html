@@ -1,29 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Pruebas</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Modern login page</title>
 </head>
-
 <body>
+    
+    <div class="container" id="container">
+        <div class="from-container sing-up">
+            <form>
+                <h1>Crear cuenta</h1>
+                <div class="social-icons">
+                    <i class="fa-brands fa-google-plus-g"></i>
+                    <i class="fa-brands fa-facebook-f"></i>
+                    <i class="fa-brands fa-github"></i>
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </div>
+                <span>o use su correo electronico para registarse</span>
+                <input type="text" placeholder="nombre">
+                <input type="email" placeholder="email">
+                <input type="password" placeholder="contraseña">
+                <button>sing-up</button>
 
-    <div>
-        <title>Pruebas version v0.1.0 cambio menor</title>
-        <p>Probando como sería ir dando más archivos a github</p>
-       
-        <ul>
-            <li class="item3"></li>
-            <li class="item4"></li>
-            <li class="item5"></li>
-            <li class="item6"></li>
-            <li class="item7"></li>
-        </ul> 
-
+            </form>
+        </div>
+        <div class="from-container sing-in">
+            <form>
+                <h1>iniciar sesion</h1>
+                <div class="social-icons">
+                    <i class="fa-brands fa-google-plus-g"></i>
+                    <i class="fa-brands fa-facebook-f"></i>
+                    <i class="fa-brands fa-github"></i>
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </div>
+                <span>o utiliza tu contraseña de correo electronico </span>
+                <input type="email" placeholder="email">
+                <input type="password" placeholder="contraseña">
+                <a href="#">¿olvidaste tu contraseña?</a>
+                <button>iniciar sesion</button>
+            </form>
+        </div>
+        <div class="toggle-container">
+            <div class="toggle">
+                <div class="toggle-panel toggle-left">
+                    <h1>Bienvenido de nuevo!</h1>
+                    <p>Ingrese sus datos personales para utilizar todas las funciones del sitio</p>
+                    <button class="hidden" id="login">iniciar sesion</button>
+                </div>
+                <div class="toggle-panel toggle-right">
+                    <h1>Hola amigo!</h1>
+                    <p>Regístrese con sus datos personales para utilizar todas las funciones del sitio.</p>
+                    <button class="hidden" id="register">registarse</button>
+                </div>
+            </div>
+        </div>     
     </div>
-
+    <script src="script.js"></script>
 </body>
-
 </html>
