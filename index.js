@@ -1,2 +1,2 @@
-console.log("git en 4hrs ... nojdoda");
+console.log("git en 4hrs ... nojdoda echeee");
 
