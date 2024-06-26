@@ -1,0 +1,86 @@
+* commit 8fecec337979faf40fed02a0d9722f3a76b376ff
+| Author: Curcolor <jairoarcia2003@gmail.com>
+| Date:   Tue Jun 25 17:42:54 2024 -0500
+| 
+|     pruebas de merge
+|   
+| * commit 607afc6939e2aa4116742071f10812e10a3551a7
+| | Author: s4mu3l2005 <samyarena2005@gmail.com>
+| | Date:   Tue Jun 25 17:11:21 2024 -0500
+| | 
+| |     cambio
+| | 
+| * commit add275c81cec761dc36cec303bc0981f39b84461
+|/  Author: s4mu3l2005 <samyarena2005@gmail.com>
+|   Date:   Tue Jun 25 17:00:57 2024 -0500
+|   
+|       pues mi pagina
+| 
+* commit bc0bc5fbb47baf195ef0617afd6bfe181f755664
+| Author: Curcolor <jairoarcia2003@gmail.com>
+| Date:   Tue Jun 25 16:40:24 2024 -0500
+| 
+|     prueba del viejo viejo
+|   
+*   commit 58ae048773c6b9b38514c8387a340168131bfa5b
+|\  Merge: 0a7e249 02a4d5c
+| | Author: Curcolor <jairoarcia2003@gmail.com>
+| | Date:   Mon Jun 24 23:18:18 2024 -0500
+| | 
+| |     hubo un conflicto por cambio de texto... nojoda
+| | 
+| * commit 02a4d5cb04a874f1f6daf96000022b48ac3fd365
+| | Author: Curcolor <jairoarcia2003@gmail.com>
+| | Date:   Mon Jun 24 17:56:43 2024 -0500
+| | 
+| |     crando archivo js
+| | 
+* | commit 0a7e249087b0b451ada805ed2bda46aa5175bdfc
+|/  Author: Curcolor <jairoarcia2003@gmail.com>
+|   Date:   Mon Jun 24 17:56:43 2024 -0500
+|   
+|       no entendi este cambio de commits
+| 
+* commit a20596423c8bcaa784d90ebd2fc1d61cc534ad85
+| Author: Curcolor <jairoarcia2003@gmail.com>
+| Date:   Mon Jun 24 17:53:41 2024 -0500
+| 
+|     creado el archivo css
+| 
+* commit c5e17b8c981f16f928a4c9000e71803844d9c517
+| Author: Curcolor <jairoarcia2003@gmail.com>
+| Date:   Mon Jun 24 17:47:17 2024 -0500
+| 
+|     index.html creado
+| 
+* commit 2bdf765de34c472ecf650e5f0216b1215ef39cce
+| Author: Curcolor <jairoarcia2003@gmail.com>
+| Date:   Mon Jun 24 17:31:28 2024 -0500
+| 
+|     ignorando archivos .exe
+| 
+* commit 7049a1a08a8570a7571574c379ad3e4cdc314e0a
+| Author: JairoA <98512930+Curcolor@users.noreply.github.com>
+| Date:   Mon Jun 24 16:56:42 2024 -0500
+| 
+|     Creando la archivo de LICENSE
+|     
+|     Archivo de licencia de MIT
+| 
+* commit 5fb8587efe0f2b9c1d9a1568653276ab86e2e3ba
+| Author: Curcolor <jairoarcia2003@gmail.com>
+| Date:   Mon Jun 24 16:50:05 2024 -0500
+| 
+|     ya esta conectado a github
+| 
+* commit ba8977642d1b32b7a9cff5fd91e015873e62f8ab
+| Author: Curcolor <jairoarcia2003@gmail.com>
+| Date:   Mon Jun 24 16:43:48 2024 -0500
+| 
+|     Agregando descripción en el readme.md
+| 
+* commit ce200664182c026c8071b69f514a62494506735a
+  Author: Curcolor <jairoarcia2003@gmail.com>
+  Date:   Mon Jun 24 16:38:35 2024 -0500
+  
+      Prueba v.0.0.1, estado vacio
